@@ -7,7 +7,7 @@ html, body {
 	height: 100%;
 	width: 100%;
 	font-family: sans-serif;
-	color: #FFF;
+	color: black;
 }
 #home {
 	background: url('../css/images/home.jpg') no-repeat 50% 50%;
@@ -28,7 +28,7 @@ h1 {
 }
 h3 {
 	font-size: 260%;
-	font-weight: 500;
+	font-weight: 5git stat00;
 	line-height: 1.2;
 }
 .btn-default {
@@ -44,6 +44,10 @@ p {
 	color: #36342F;
 	padding: 3%;
 }
+
+
+
+
 
 @media (max-width: 768px) {
 	h1 {

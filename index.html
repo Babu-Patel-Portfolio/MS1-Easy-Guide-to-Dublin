@@ -1,58 +1,100 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <!--meta tags -->
     <meta charset="utf-8">
-  
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
     <title>Easy Guide to Dublin</title>
-  </head>
-  <body>
+</head>
+
+<body>
+
     <!-- Header with navbar -->
+    <!--  https://getbootstrap.com/docs/4.6/components/navbar/  -->
     <header class="container-fluid">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-    <a class="navbar-brand" href="#">Easy Guide to Dublin</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-   </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Eat</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Drink</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Shop</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Travel</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
-      </li>
-    </ul>
-  </div>
-</nav>
-    </header> 
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <a class="navbar-brand" href="#">Easy Guide to Dublin</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Eat</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Drink</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Shop</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Travel</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
 
-     <!-- Hero image -->
 
-	<div id="home">
-		<div class="landing-text">
-			<h1>Easy Guide to Dublin</h1>
-			<h3>Enough Information to get you started in this vibrant city</h3>
-			<br>
-			<a href="#" class="btn btn-default btn-lg">Get Started</a>
-		</div>
-	</div>
+    <!-- Hero image -->
+<!-- https://www.youtube.com/watch?v=fHSanh-TAEM&t=406s -->
+
+    <div id="home">
+        <div class="landing-text">
+            <h1>Easy Guide to Dublin</h1>
+            <h3>Enough Information to get you started in this vibrant city</h3>
+            <br>
+            <a href="#" class="btn btn-default btn-lg">Get Started</a>
+        </div>
+    </div>
+
+
+    <!-- Travel Section-->
+    <!-- https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp-->
+
+    <div class="jumbotron text-center">
+        <h1>Travel</h1>
+        <p>Dublin city is served by a number of travel options providing good transport links within the city and to the
+            rest of the country, though not always good value. Again it's worth checking out seasonal offers, particularly
+            when travelling by train during the summer months.
+        </p>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <h2>Bus</h2>
+                <p>Dublin Bus is the main provider of a regular public bus service within the city. A reduced service operates at the weekend. There is also a night service known as Nightlink and operates after these hours Mon-Sat, and bank holiday Sundays. 
+</p>
+            </div>
+            <div class="col-sm-4">
+                <h3>Luas</h3>
+                <p>One of the most popular forms of public transport, the Luas is a Light Rail Transit System, essentially a tram
+                    service running on separate tracks and roads. There are just two lines, red and green. Both run from the
+                    city-centre.
+                    Dart</p>
+            </div>
+            <div class="col-sm-4">
+                <h3>Dart</h3>
+                <p>Dublin Area Rapid Transit (DART) is an electrified train service which runs along the coast of the city from
+                    Malahide and Howth in the North, southwards to Greystones, County Wicklow.
+                </p>
+            </div>
+        </div>
+    </div>
 
 
 
@@ -63,9 +105,16 @@
 
 
     <!-- jQuery and Bootstrap Bundle (includes Popper) -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
+        integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
+        crossorigin="anonymous"></script>
 
 </body>
+
 </html>
