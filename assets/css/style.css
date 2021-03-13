@@ -29,7 +29,8 @@ h1 {
 h3 {
 	font-size: 260%;
 	font-weight: 5git stat00;
-	line-height: 1.2;
+    line-height: 1.2;
+    text-align: center;
 }
 .btn-default {
 	background-color: #FFF;
@@ -60,3 +61,5 @@ p {
 		font-size: 120%;
     }
 }
+
+
