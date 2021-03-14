@@ -47,6 +47,16 @@ p {
 }
 
 
+/*----------------------------------footer */
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#169B62;
+   color: white;
+   text-align: center;
+}
 
 
 
@@ -61,5 +71,3 @@ p {
 		font-size: 120%;
     }
 }
-
-
