@@ -59,6 +59,8 @@ h3 {
    background-color:#808080;
 }
 
+/*-------------------------------------------jumbotron images */
+
 
 .eat {
 margin-top: 20px;
@@ -72,7 +74,17 @@ background-size: cover;
 color: #FFFFFF;
 }
 
-
+.drink {
+margin-top: 20px;
+background-image: url('../css/images/drink.jpg');
+padding-top: 20%;
+padding-bottom: 20%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+color: #FFFFFF;
+}
 
 
 
