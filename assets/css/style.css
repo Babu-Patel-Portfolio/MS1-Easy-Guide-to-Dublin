@@ -86,6 +86,29 @@ background-size: cover;
 color: #FFFFFF;
 }
 
+.shop {
+margin-top: 20px;
+background-image: url('../css/images/shop.jpg');
+padding-top: 20%;
+padding-bottom: 20%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+color: #FFFFFF;
+}
+
+.shop {
+margin-top: 20px;
+background-image: url('../css/images/travel.jpg');
+padding-top: 20%;
+padding-bottom: 20%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+color: #FFFFFF;
+}
 
 
 
