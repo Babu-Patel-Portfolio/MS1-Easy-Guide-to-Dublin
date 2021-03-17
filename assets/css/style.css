@@ -47,17 +47,26 @@ h3 {
     /**/
 }
 
-/*.p {text-align:justify;} */
 
-/*--------------------------------------------------footer---*/
+/*--------------------------------------------------footer */
 
 footer  {
-   height: 200px;
- }
+   height: 150px;
+}
+
+.social-media {
+   text-align:  center;
+}
+
+.social-media li {
+  display: inline;
+}
+
 
 
 
 /*-------------------------------------------jumbotron images */
+
 
 
 .eat {
