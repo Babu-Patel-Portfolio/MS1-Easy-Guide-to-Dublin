@@ -2,9 +2,11 @@
 
 
 body, html {
-    height: 100%;
-    
+height: 100%;
+width:100%;
 }
+
+
 
 /* --------------------------------------The hero image */
 .hero-image {
@@ -13,7 +15,7 @@ body, html {
   height: 100%;
   width: 100%;
 
-  /* Position and center the image to scale nicely on all screens */
+  /* ---Image position and center to scale  all screens */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -45,38 +47,38 @@ h3 {
     /**/
 }
 
+/*.p {text-align:justify;} */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-/*----------------------------------*/
+/*--------------------------------------------------footer*/
 
 .footer  {
    left: 0;
-   bottom: 0;
+   bottom:0;
    width: 100%;
    text-align: center;
    background-color:#808080;
 }
 
 
+.eat {
+margin-top: 20px;
+background-image: url('../css/images/eat.jpg');
+padding-top: 20%;
+padding-bottom: 20%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+color: #FFFFFF;
+}
 
-  /* Style for font awesome icons */
+
+
+
+
+
+
+  /*------------------------- Style for font awesome icons */
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -85,36 +87,30 @@ h3 {
   text-decoration: none;
 }
 
-/* Hover effect */
+/*-------------------------------------------- Hover effect */
 .fa:hover {
   opacity: 0.7;
 }
 
-/* Color for each brand */
+/*--------------------------------------Color for each brand */
 
-/* Instagram*/
 .fa-instagram {
   background: #a21da7;
   color: white;
 }
 
-  /* Twitter */
 .fa-twitter {
   background: #55ACEE;
   color: white;
 }
 
-/* YouTube */
   .fa-youtube {
   background: #bb0000;
   color: white;
 }
 
 
-
-
-
-
+/*----------------------------------------------media queries */
 
 @media (max-width: 768px) {
 	h1 {
