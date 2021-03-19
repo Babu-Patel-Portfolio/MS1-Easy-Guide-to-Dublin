@@ -43,8 +43,7 @@ h3 {
 	font-weight: 5git stat00;
     line-height: 1.2;
     text-align: center;
-    color:#000000; 
-    /**/
+    color:#FF883E; 
 }
 
 
@@ -62,18 +61,7 @@ h3 {
   padding: 0%;
 }
 
-/*--------------------------------------------------footer */
-
-footer  {
-   height:100px;
-}
-
-
-
-
 /*-------------------------------------------jumbotron images */
-
-
 
 .eat {
 margin-top: 20px;
