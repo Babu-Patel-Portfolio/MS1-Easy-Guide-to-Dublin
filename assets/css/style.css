@@ -48,11 +48,9 @@ h3 {
 }
 
 
-/*--------------------------------------------------footer */
 
-footer  {
-   height: 100px;
-}
+
+/*--------------------------------------------------social media */
 
 .social-media {
    text-align:  center;
@@ -63,6 +61,15 @@ footer  {
   margin: 1%;
   padding: 0%;
 }
+
+/*--------------------------------------------------footer */
+
+
+
+footer  {
+   height: 100px;
+}
+
 
 
 
@@ -117,6 +124,8 @@ background-size: cover;
 -o-background-size: cover;
 color: #FFFFFF;
 }
+
+
 
   /*------------------------- Style for font awesome icons */
 .fa {
