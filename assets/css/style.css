@@ -13,7 +13,6 @@ width:100%;
 
   background-image: url('../css/images/home.jpg');
   height: 100%;
-  width: 100%;
 
   /* ------ Image position and center to scale  all screens */
   background-position: center;
@@ -32,6 +31,7 @@ width:100%;
   transform: translate(-50%, -5%);
   color: white;
 }
+
 
 h1 {
 	font-family: 'Roboto', sans-serif;
@@ -159,4 +159,13 @@ color: #FFFFFF;
 	.btn-default {
 		font-size: 120%;
     }
+
+@media (max-width: 768px) {
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -5%);
+  color: white;
 }
