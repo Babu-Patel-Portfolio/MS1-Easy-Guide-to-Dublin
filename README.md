@@ -115,9 +115,9 @@ During the development and testing of the website:
 
 - **Languages**
 
-HTML: HTML was used to structure the page
+   - HTML: HTML was used to structure the page
 
-CSS: CSS was used to style the different elements on the page.
+   - CSS: CSS was used to style the different elements on the page.
 
 - **Frameworks and libraries**
   - [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Bootstrap library was used to build the layout using the grid system.
