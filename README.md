@@ -7,7 +7,7 @@ Project - User-Centric Frontend Development - Code Institute.
 
 **View the live project here (link to be added)**
 
-[All devices Image](https://github.com/BabusDublinCoding/MS1-Easy-Guide-to-Dublin/blob/master/wireframes/sitealldevices.png
+[All devices Image](https://raw.githubusercontent.com/BabusDublinCoding/MS1-Easy-Guide-to-Dublin/master/wireframes/sitealldevices.png
 )
 
 
