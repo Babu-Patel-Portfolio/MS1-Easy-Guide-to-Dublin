@@ -218,4 +218,33 @@ Although the text was responsive, the images were not.
 
 
 
+**Credits**
+
+**Code -** adapted from and inspired by the below:
+
+- The full-screen hero image code <https://www.w3schools.com/howto/howto_css_hero_image.asp>
+
+- The Bootstrap Library used throughout the project to help in making the site responsive using the Bootstrap Grid System.
+
+<https://getbootstrap.com/docs/4.6/getting-started/introduction/>
+
+- The container code for the sections
+
+<https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_default&stacked=h>
+
+- Readme template influenced by Code Institute samples and templates
+
+<https://github.com/Code-Institute-Solutions/readme-template>
+
+- Bootstrap grid and layout explanation
+
+<https://ajgreaves.github.io/bootstrap-grid-demo/index.html>
+
+- Tutorials, Slack posts, webinars, pdfs and YouTube videos by A. J. Greaves 
+
+**Content**
+
+- All wording content was written by the developer
+
+
 
