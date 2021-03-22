@@ -77,6 +77,25 @@ The colours are hues rather than the actual colours as I wanted a more refined l
 - The navigation bar has a colour relating to Shamrock green, and was chosen as it was a less garish introduction than #169B62 , upon testing with the &#39;hero image&#39;.
 - Additional colours for the buttons were from Bootstrap and chosen to complement the existing images and colour palette, as well as convey meaning.
 
+**Typography**
+
+- Roboto was chosen as the font for this project as the font family for this website it is currently very popular in modern web design. It has a clean and elegant with a readable shape, which suits the refined style the website is trying to achieve. 
+
+**Icons**
+
+- Icons are from the Font Awesome library are used to bring the users attention to additional social media resources.
+
+**Imagery**
+
+- All images were chosen to convey Dublin as a modern city and were meant to be prominent.
+
+**Differences to design**
+
+- The original images that were to be used were collages of images from the developer’s own collection. The images were determined to be dated and in order to have a greater  visual impact the idea of having a ‘hero’ to cover the page with a call to action was implemented 
+- In the original design, there were less images and the sections were to be differentiated by background colours of the Irish Flag. The original palette below did not convey the modern refined aesthetic sought. 
+
+|#169B62|#FFFFFF|#FF883E|
+| :- | :- | :- |
 
 
 
