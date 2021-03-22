@@ -16,7 +16,7 @@ This website is intended to be a simple concise guide to Dublin for those who ha
 
 ![](Aspose.Words.73788b92-f8b9-40c1-854a-f98dc857c887.002.png)
 
-### User Experience (UX)
+## User Experience (UX)
 
 **User Stories**
 
@@ -31,7 +31,7 @@ This website is intended to be a simple concise guide to Dublin for those who ha
 
 
 
-## Strategy
+### Strategy
 
 
 **User Needs.**
@@ -49,12 +49,12 @@ The project will be done using HTML, CSS and Bootstrap 4.6, the framework which 
 The project is not a commercial venture but simply to inform and educate the user the ease at which Dublin can be enjoyed and navigated, providing a simple guide.  Once users have signed up for the newsletters, there are business opportunities available, such as inviting the purchase of more comprehensive guides, such as eBooks. 
 
 
-## Scope
+### Scope
 
 The objective is to highlight to new and potential visitors to the city that city is worth visiting and promotes Dublin as a modern vibrant city through imagery and refined look of the site.
 
 
-## Structure
+### Structure
 
 The original structure was for a multi-page site but this was abandoned as it would not fit the user needs. Instead, a single page site, split into sections with a navigation bar at the top linking to each section, ending with a social media section where users could find more comprehensive information. 
 
