@@ -60,7 +60,7 @@ The original structure was for a multi-page site but this was abandoned as it wo
 
 
 
-## Design**
+## Design
 
 **Colour Scheme**
 
