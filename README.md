@@ -141,3 +141,60 @@ CSS: CSS was used to style the different elements on the page.
   - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): To check there's no error in the CSS code.
 
 
+**Testing** 
+
+- Links: Each of the links when clicked have been checked so that the user is directed to the desired location on the page. To enhance the user experience each link has a colour change when hovered
+
+- Navigation bar: Significant testing was done to ensure links pointed to the correct section of the page resulting in the discovery of a known bug relating to Bootstrap Navbar. When using the fixed top option, it led to part of the text been covered by the navbar, once the link had been clicked. This was solved by pointed to a higher location
+
+- Social media icons were tested to ensure they worked and included a target attribute so that a new browser tab is opened.
+
+- **Chrome DevTools** was used to test the website on the devices on listed below:
+
+- Moto G4
+- Galaxy S5 
+- Pixel 2
+- Pixel2XL
+- iPhone 5/SE
+- iPhone 6/7/8 
+- iPhone 6/7/8 Plus
+- iPhone X 
+- iPad 
+- iPad Pro 
+- Surface Duo 
+- Galaxy Fold   
+
+Result was successfully responsive.
+
+- The website was also tested on the following personal devices 
+
+- Lenovo laptop with a 15.6 screen 
+- Amazon Fire tablet with a 10.1 screen 
+- hp monitor with a 32in screen
+
+`      `Result was successfully responsive.
+
+- Significant testing to ensure the images and colours were in harmony
+
+- Additional testing for responsiveness on all pages was done through Google Mobile Friendly Test
+
+![](Aspose.Words.73788b92-f8b9-40c1-854a-f98dc857c887.006.png)
+
+`    `Result was mobile friendly.
+
+- **Google lighthouse** was used to assess the performance of the site 
+
+- mobile receiving scores in the 90s for mobile 
+- desktop receiving scores in the 90s for desktop 
+
+
+**W3C HTML Validator**
+
+- Just two errors
+
+**W3C CSS Validator**
+
+- Gave a number warnings relating to ‘unknown vendor extension’ errors.  I choose to ignore that warning, as it is to do with the prefixes you are using for different browsers and it is considered best to be using these prefixes than not
+
+
+
