@@ -258,10 +258,16 @@ Eat - Photo by [Pablo Merchán Montes](https://unsplash.com/@pablomerchanm?utm_s
 
 Drink - Photo by [Lucian Potlog](https://www.pexels.com/@lucianphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/assorted-liquor-bottles-3566226/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
-` `Shop - Photo by [Tamanna Rumee](https://unsplash.com/@tamanna_rumee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](C:\s\photos\shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+Shop - Photo by [Tamanna Rumee](https://unsplash.com/@tamanna_rumee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](C:\s\photos\shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
 
 Travel - Photo by [Fabrício Severo](https://unsplash.com/@fssevero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](C:\s\photos\dublin-fabr%C3%ADcio-severo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 
+**Acknowledgements**
+
+- My mentor, Narender Singh, for his searching questions, constructive feedback and his generosity for sharing his knowledge, experience and time.
+- The slack community for the treasure trove of knowledge and their willingness to offer advice 
+- Tutor support at Code Institute for their support during the latter stages of the project
+- My girlfriend for her support and patience!
 
 
