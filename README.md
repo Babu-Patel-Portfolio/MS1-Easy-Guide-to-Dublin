@@ -32,7 +32,6 @@ This website is intended to be a simple concise guide to Dublin for those who ha
 
 
 
-
 **Strategy**
 
 
