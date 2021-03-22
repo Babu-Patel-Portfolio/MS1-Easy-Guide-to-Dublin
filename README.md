@@ -7,8 +7,7 @@ Project - User-Centric Frontend Development - Code Institute.
 
 **View the live project here (link to be added)**
 
-[All devices Image](https://raw.githubusercontent.com/BabusDublinCoding/MS1-Easy-Guide-to-Dublin/master/wireframes/sitealldevices.png
-)
+![All Devices Image](wireframes/sitealldevices.png)
 
 
 Dublin has become the destination for many people throughout Europe and the rest of the world, to learn English, embark on further education, find a job or make Ireland their home.
