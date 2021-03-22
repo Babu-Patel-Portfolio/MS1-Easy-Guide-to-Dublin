@@ -246,5 +246,22 @@ Although the text was responsive, the images were not.
 
 - All wording content was written by the developer
 
+**Media**
+
+All images sourced as freely-usable images and free stock photos from the websites below:
+
+<https://www.pexels.com>  and <https://unsplash.com>
+
+Home - Photo by [Andrei Carina](https://unsplash.com/@andrei_carina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](C:\s\photos\dublin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Eat - Photo by [Pablo Merchán Montes](https://unsplash.com/@pablomerchanm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](C:\@pablomerchanm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
+
+Drink - Photo by [Lucian Potlog](https://www.pexels.com/@lucianphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/assorted-liquor-bottles-3566226/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+
+` `Shop - Photo by [Tamanna Rumee](https://unsplash.com/@tamanna_rumee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](C:\s\photos\shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+
+Travel - Photo by [Fabrício Severo](https://unsplash.com/@fssevero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](C:\s\photos\dublin-fabr%C3%ADcio-severo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
 
 
