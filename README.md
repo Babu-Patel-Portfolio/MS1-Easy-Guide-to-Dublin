@@ -73,9 +73,6 @@ The colours are hues rather than the actual colours as I wanted a more refined l
 - The colour white is used as the foreground text on the &#39;hero image&#39; and the subsequent images on the site.
 - Orange is used for the heading on the blocks of text.
 
-![](RackMultipart20210322-4-v8a0pl_html_7d0f03dbed35aaad.png) ![](RackMultipart20210322-4-v8a0pl_html_955c6c454315f86b.png) ![](RackMultipart20210322-4-v8a0pl_html_1bac7f107c7c8733.png) ![](RackMultipart20210322-4-v8a0pl_html_7333ae18b60999b0.png)
-
-#169B62 #FFFFFF #FF883E #005332
 
 - The navigation bar has a colour relating to Shamrock green, and was chosen as it was a less garish introduction than #169B62 , upon testing with the &#39;hero image&#39;.
 - Additional colours for the buttons were from Bootstrap and chosen to complement the existing images and colour palette, as well as convey meaning.
