@@ -178,7 +178,6 @@ Result was successfully responsive.
 
 - Additional testing for responsiveness on all pages was done through Google Mobile Friendly Test
 
-![](Aspose.Words.73788b92-f8b9-40c1-854a-f98dc857c887.006.png)
 
 `    `Result was mobile friendly.
 
