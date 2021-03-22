@@ -184,9 +184,13 @@ Result was successfully responsive.
 `    `Result was mobile friendly.
 
 - **Google lighthouse** was used to assess the performance of the site 
-
+- 
 - mobile receiving scores in the 90s for mobile 
+
+![Lighthouse mobile result](wireframes/Lightmobile.png)
+
 - desktop receiving scores in the 90s for desktop 
+
 
 - **W3C HTML Validator**
 
