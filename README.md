@@ -1,5 +1,4 @@
 # MS1-Easy-Guide-to-Dublin
-**Easy Guide to Dublin Website**
 **README.md** 
 
 **Easy Guide to Dublin Website**
