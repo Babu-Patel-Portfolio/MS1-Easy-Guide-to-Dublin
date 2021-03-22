@@ -17,7 +17,7 @@ This website is intended to be a simple concise guide to Dublin for those who ha
 
 ![](Aspose.Words.73788b92-f8b9-40c1-854a-f98dc857c887.002.png)
 
-##User Experience (UX)
+## User Experience (UX)
 
 **User Stories**
 
@@ -110,7 +110,7 @@ The colours are hues rather than the actual colours as I wanted a more refined l
 
 (link to wireframes folder)
 
-**Technologies Used**
+## Technologies Used
 
 During the development and testing of the website:
 
@@ -141,7 +141,7 @@ CSS: CSS was used to style the different elements on the page.
   - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): To check there's no error in the CSS code.
 
 
-**Testing** 
+## Testing
 
 - Links: Each of the links when clicked have been checked so that the user is directed to the desired location on the page. To enhance the user experience each link has a colour change when hovered
 
@@ -187,17 +187,16 @@ Result was successfully responsive.
 - mobile receiving scores in the 90s for mobile 
 - desktop receiving scores in the 90s for desktop 
 
-
-**W3C HTML Validator**
+- **W3C HTML Validator**
 
 - Just two errors
 
-**W3C CSS Validator**
+- **W3C CSS Validator**
+- Gave a number warnings relating to &#39;unknown vendor extension&#39; errors. I choose to ignore that warning, as it is to do with the prefixes you are using for different browsers and it is considered best to be using these prefixes than not
 
-- Gave a number warnings relating to ‘unknown vendor extension’ errors.  I choose to ignore that warning, as it is to do with the prefixes you are using for different browsers and it is considered best to be using these prefixes than not.
 
 
-**Bugs**
+## Bugs
 
 - When viewing the website on mobile devices the foreground text on images seemed to ‘crowded’.
 - The resolution was to reduce the amount of text, which led to a cleaner look and more concise descriptions.
@@ -218,7 +217,7 @@ Although the text was responsive, the images were not.
 
 
 
-**Credits**
+## Credits
 
 **Code -** adapted from and inspired by the below:
 
@@ -242,11 +241,11 @@ Although the text was responsive, the images were not.
 
 - Tutorials, Slack posts, webinars, pdfs and YouTube videos by A. J. Greaves 
 
-**Content**
+## Content
 
 - All wording content was written by the developer
 
-**Media**
+## Media
 
 All images sourced as freely-usable images and free stock photos from the websites below:
 
@@ -263,7 +262,7 @@ Shop - Photo by [Tamanna Rumee](https://unsplash.com/@tamanna_rumee?utm_source=u
 Travel - Photo by [Fabrício Severo](https://unsplash.com/@fssevero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](C:\s\photos\dublin-fabr%C3%ADcio-severo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 
-**Acknowledgements**
+## Acknowledgements
 
 - My mentor, Narender Singh, for his searching questions, constructive feedback and his generosity for sharing his knowledge, experience and time.
 - The slack community for the treasure trove of knowledge and their willingness to offer advice 
