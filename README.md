@@ -194,7 +194,28 @@ Result was successfully responsive.
 
 **W3C CSS Validator**
 
-- Gave a number warnings relating to ‘unknown vendor extension’ errors.  I choose to ignore that warning, as it is to do with the prefixes you are using for different browsers and it is considered best to be using these prefixes than not
+- Gave a number warnings relating to ‘unknown vendor extension’ errors.  I choose to ignore that warning, as it is to do with the prefixes you are using for different browsers and it is considered best to be using these prefixes than not.
+
+
+**Bugs**
+
+- When viewing the website on mobile devices the foreground text on images seemed to ‘crowded’.
+- The resolution was to reduce the amount of text, which led to a cleaner look and more concise descriptions.
+- Navbar fixed top covering part of the text on the page of the area it pointed to. Resolved by changing the place it pointed to.
+
+- Font awesome icons not showing properly – replaced fab with fa!
+
+- Call to action button not pointing to the right spot
+
+Resolved by adding a few line breaks, a p tag and pointing the id to that. 
+
+- Google Lighthouse report for desktop suggested images were too large.
+
+Resolved by replacing the images were lower resolution versions and the performance score went from the 80s to the 90s.  
+
+
+Although the text was responsive, the images were not.
+
 
 
 
