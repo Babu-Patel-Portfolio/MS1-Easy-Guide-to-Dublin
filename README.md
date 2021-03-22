@@ -103,12 +103,14 @@ The colours are hues rather than the actual colours as I wanted a more refined l
 - The wireframes were created using Balsamic, a popular wireframing tool, which Code Institute student can avail of as a fully licenced product.
 - This was done during the early stages of the project and demonstrates the structure of the website on different devices including mobile, tablet and desktop.
 
+
 **Differences to wireframes**
 
 - The first wireframes indicated that the website was designed as multi- page site with up to 6 or 7 pages. 
 - This was quickly changed to a single page website to fit in with the idea that this was to be an ‘Easy Guide to Dublin’, hence a single page design was more appropriate. 
 
-(link to wireframes folder)
+[Wireframes](https://github.com/BabusDublinCoding/MS1-Easy-Guide-to-Dublin/tree/master/wireframes)
+
 
 ## Technologies Used
 
