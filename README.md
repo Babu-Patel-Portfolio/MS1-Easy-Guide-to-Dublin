@@ -191,6 +191,7 @@ Result was successfully responsive.
 
 - desktop receiving scores in the 90s for desktop 
 
+![Lighthouse mobile result](wireframes/lighthousedesktop.png)
 
 - **W3C HTML Validator**
 
