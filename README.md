@@ -213,6 +213,26 @@ Result was successfully responsive.
 - Google Lighthouse report for desktop suggested images were too large. Resolved by replacing the images were lower resolution versions and the performance score went from the 80s to the 90s.  
 
 
+**Deployment**
+
+Easy Guide to Dublin was developed on GitPod, and uses GitHub to host the repository.
+
+**To deploy Easy Guide to Dublin using **** GitHub Pages**
+
+The following steps were taken:
+
+- Opened up GitHub in the browser
+- Signed in using username and password
+- Selected my repositories.
+- Navigated to https://github.com/BabusDublinCoding/MS1-Easy-Guide-to-Dublin
+- In the top navigation clicked settings
+- Scrolled down to the GitHub Pages area
+- Selected Master Branch from the Source dropdown menu
+- Clicked to confirm my selection
+- Easy Guide to Dublin was now live on GitHub Pages
+
+
+
 
 ## Credits
 
