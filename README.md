@@ -34,7 +34,7 @@ This website is intended to be a simple concise guide to Dublin for those who ha
 ### Strategy
 
 
-**User Needs.**
+**User Needs**
 
 The intention is that the user will access the site primarily on their mobile, tablet and then there desktop. The information is to be presented in a concise manner.
 
