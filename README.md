@@ -92,10 +92,7 @@ The colours are hues rather than the actual colours as I wanted a more refined l
 **Differences to design**
 
 - The original images that were to be used were collages of images from the developer’s own collection. The images were determined to be dated and in order to have a greater  visual impact the idea of having a ‘hero’ to cover the page with a call to action was implemented 
-- In the original design, there were less images and the sections were to be differentiated by background colours of the Irish Flag. The original palette below did not convey the modern refined aesthetic sought. 
-
-|#169B62|#FFFFFF|#FF883E|
-| :- | :- | :- |
+- In the original design, there were less images and the sections were to be differentiated by background colours of the Irish Flag. 
 
 
 **Wireframes**
