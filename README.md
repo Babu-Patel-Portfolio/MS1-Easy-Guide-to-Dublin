@@ -26,7 +26,7 @@ This website is intended to be a simple concise guide to Dublin for those who ha
 - As a user I want to find places to drink
 - As a user I want to find places to shop
 - As a user I want to find out how to get around Dublin
-- As a user II want to see social media links to direct me to further information 
+- As a user I want to see social media links to direct me to further information 
 - As a user I want to be able to sign up to a Newsletter for more information about things to do in Dublin
 
 
@@ -36,12 +36,12 @@ This website is intended to be a simple concise guide to Dublin for those who ha
 
 **User Needs**
 
-The intention is that the user will access the site primarily on their mobile, tablet and then there desktop. The information is to be presented in a concise manner.
+The intention is that the user will access the site primarily on their mobile, tablet and then the desktop. The information is to be presented in a concise manner.
 
 
 **Technical Aptitudes**
 
-The project will be done using HTML, CSS and Bootstrap 4.6, the framework which relatively new to me. The idea is to structure the page in a way that the user can navigate it easily and find information quickly.
+The project will be done using HTML, CSS and Bootstrap 4.6, the framework which is relatively new to me. The idea is to structure the page in a way that the user can navigate it easily and find information quickly.
 
 
 **Business Vision**
@@ -83,7 +83,7 @@ The colours are hues rather than the actual colours as I wanted a more refined l
 
 **Icons**
 
-- Icons are from the Font Awesome library are used to bring the users attention to additional social media resources.
+- Icons from the Font Awesome library are used to bring the users attention to additional social media resources.
 
 **Imagery**
 
@@ -91,13 +91,13 @@ The colours are hues rather than the actual colours as I wanted a more refined l
 
 **Differences to design**
 
-- The original images that were to be used were collages of images from the developer’s own collection. The images were determined to be dated and in order to have a greater  visual impact the idea of having a ‘hero’ to cover the page with a call to action was implemented 
+- The original images that were to be used were collages of images from the developer’s own collection. The images were determined to be dated and in order to have a greater  visual impact the idea of having a ‘hero’ to cover the page with a call to action was implemented.
 - In the original design, there were less images and the sections were to be differentiated by background colours of the Irish Flag. 
 
 
 **Wireframes**
 
-- The wireframes were created using Balsamic, a popular wireframing tool, which Code Institute student can avail of as a fully licenced product.
+- The wireframes were created using Balsamic, a popular wireframing tool, which Code Institute students can avail of as a fully licenced product.
 - This was done during the early stages of the project and demonstrates the structure of the website on different devices including mobile, tablet and desktop.
 
 
@@ -115,7 +115,7 @@ During the development and testing of the website:
 
 - **Languages**
 
-   - HTML: HTML was used to structure the page
+   - HTML: HTML was used to structure the page.
 
    - CSS: CSS was used to style the different elements on the page.
 
@@ -142,9 +142,9 @@ During the development and testing of the website:
 
 ## Testing
 
-- Links: Each of the links when clicked have been checked so that the user is directed to the desired location on the page. To enhance the user experience each link has a colour change when hovered
+- Links: Each of the links when clicked have been checked so that the user is directed to the desired location on the page. To enhance the user experience each link has a colour change when hovered.
 
-- Navigation bar: Significant testing was done to ensure links pointed to the correct section of the page resulting in the discovery of a known bug relating to Bootstrap Navbar. When using the fixed top option, it led to part of the text been covered by the navbar, once the link had been clicked. This was solved by pointed to a higher location
+- Navigation bar: Significant testing was done to ensure links pointed to the correct section of the page resulting in the discovery of a known bug relating to Bootstrap Navbar. When using the fixed top option, it led to part of the text been covered by the navbar, once the link had been clicked. This was solved by pointing to a higher location.
 
 - Social media icons were tested to ensure they worked and included a target attribute so that a new browser tab is opened.
 
@@ -165,7 +165,7 @@ During the development and testing of the website:
 
 Result was successfully responsive.
 
-- The website was also tested on the following personal devices 
+**The website was also tested** on the following personal devices
 
 - Lenovo laptop with a 15.6 screen 
 - Amazon Fire tablet with a 10.1 screen 
@@ -181,7 +181,7 @@ Result was successfully responsive.
 `    `Result was mobile friendly.
 
 - **Google lighthouse** was used to assess the performance of the site 
-- 
+
 - mobile receiving scores in the 90s for mobile 
 
 ![Lighthouse mobile result](wireframes/Lightmobile.png)
@@ -203,20 +203,13 @@ Result was successfully responsive.
 
 - When viewing the website on mobile devices the foreground text on images seemed to ‘crowded’.
 - The resolution was to reduce the amount of text, which led to a cleaner look and more concise descriptions.
-- Navbar fixed top covering part of the text on the page of the area it pointed to. Resolved by changing the place it pointed to.
+  Navbar fixed top covering part of the text on the page of the area it pointed to. Resolved by changing the place it pointed to.
 
 - Font awesome icons not showing properly – replaced fab with fa!
 
-- Call to action button not pointing to the right spot
+- Call to action button not pointing to the right spot. Resolved by adding a few line breaks, a p tag and pointing the id to that. 
 
-Resolved by adding a few line breaks, a p tag and pointing the id to that. 
-
-- Google Lighthouse report for desktop suggested images were too large.
-
-Resolved by replacing the images were lower resolution versions and the performance score went from the 80s to the 90s.  
-
-
-Although the text was responsive, the images were not.
+- Google Lighthouse report for desktop suggested images were too large. Resolved by replacing the images were lower resolution versions and the performance score went from the 80s to the 90s.  
 
 
 
@@ -224,7 +217,9 @@ Although the text was responsive, the images were not.
 
 **Code -** adapted from and inspired by the below:
 
-- The full-screen hero image code <https://www.w3schools.com/howto/howto_css_hero_image.asp>
+- The full-screen hero image code 
+
+- <https://www.w3schools.com/howto/howto_css_hero_image.asp>
 
 - The Bootstrap Library used throughout the project to help in making the site responsive using the Bootstrap Grid System.
 
@@ -268,8 +263,8 @@ Travel - Photo by [Fabrício Severo](https://unsplash.com/@fssevero?utm_source=u
 ## Acknowledgements
 
 - My mentor, Narender Singh, for his searching questions, constructive feedback and his generosity for sharing his knowledge, experience and time.
-- The slack community for the treasure trove of knowledge and their willingness to offer advice 
-- Tutor support at Code Institute for their support during the latter stages of the project
+- The slack community for the treasure trove of knowledge and their willingness to offer advice.
+- Tutor support at Code Institute for their support during the latter stages of the project.
 - My girlfriend for her support and patience!
 
 
