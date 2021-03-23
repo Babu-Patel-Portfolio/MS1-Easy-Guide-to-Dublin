@@ -219,7 +219,7 @@ Result was successfully responsive.
 
 - The full-screen hero image code 
 
-- <https://www.w3schools.com/howto/howto_css_hero_image.asp>
+<https://www.w3schools.com/howto/howto_css_hero_image.asp>
 
 - The Bootstrap Library used throughout the project to help in making the site responsive using the Bootstrap Grid System.
 
