@@ -233,6 +233,24 @@ The following steps were taken:
 
 
 
+**To run**  **Easy Guide to Dublin**  **Locally**
+
+Cloning Easy Guide to Dublin from GitHub:
+
+- Navigate to https://github.com/BabusDublinCoding/MS1-Easy-Guide-to-Dublin
+- Click the green Clone or Download button
+- Copy the url in the dropdown box
+- Using your preferred IDE open up your terminal
+- Navigate to your desired file location
+
+Copy the following code and input it into your terminal to Easy Guide to Dublin
+
+git clone https://github.com/BabusDublinCoding/MS1-Easy-Guide-to-Dublin
+
+
+More detailed information on cloning can be found [here]( https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+
 
 ## Credits
 
