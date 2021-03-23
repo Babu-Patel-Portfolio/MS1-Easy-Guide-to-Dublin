@@ -213,11 +213,11 @@ Result was successfully responsive.
 - Google Lighthouse report for desktop suggested images were too large. Resolved by replacing the images were lower resolution versions and the performance score went from the 80s to the 90s.  
 
 
-**Deployment**
+## Deployment
 
 Easy Guide to Dublin was developed on GitPod, and uses GitHub to host the repository.
 
-**To deploy Easy Guide to Dublin using **** GitHub Pages**
+**To deploy Easy Guide to Dublin using GitHub Pages**
 
 The following steps were taken:
 
