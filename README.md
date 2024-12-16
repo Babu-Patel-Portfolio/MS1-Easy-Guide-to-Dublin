@@ -5,7 +5,7 @@
 
 Project - User-Centric Frontend Development - Code Institute.
 
-The live website can be found [here](https://babusdublincoding.github.io/MS1-Easy-Guide-to-Dublin/ )
+The live website can be found [here](https://babu-patel-portfolio.github.io/MS1-Easy-Guide-to-Dublin/ )
 
 
 ![All Devices Image](wireframes/sitealldevices.png)
